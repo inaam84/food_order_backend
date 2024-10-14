@@ -1,0 +1,13 @@
+POST http://127.0.0.1:8080/admin/vendors HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Inaam Azmat",
+    "address": "18 Mansfield Road",
+    "pincode": "pincode",
+    "foodType": "foodType",
+    "email": "email@email.com",
+    "password": "password",
+    "ownerName": "ownerName",
+    "phone": "07415031519"
+}
